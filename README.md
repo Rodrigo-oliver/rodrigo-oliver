@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje eu trabalho com talent acquisition.
-- 🌱 Estudando HTML, CSS, JAVASCRIPT e Python.
+- 🌱 Estou estudando HTML, CSS, JAVASCRIPT e Python.
 - 💬 Pergunte-me sobre talent acquisition.
 - 😄 Ele/Dele.
  
@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/rodrigo-olive">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-oliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-oliver&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
   <div>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
