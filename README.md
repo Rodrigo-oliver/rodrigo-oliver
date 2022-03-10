@@ -1,11 +1,11 @@
 ### Olá, eu sou o Rodrigo Oliveira 👋
 
 
+- 🏡 I live in Sao Paulo, Brazil
+- 🔭 I work with talent acquisition.
+- 🌱 I am studying HTML, CSS, JAVASCRIPT e Python.
+- 💬 Ask me about talent acquisition.
 
-- 🔭 Hoje eu trabalho com talent acquisition.
-- 🌱 Estou estudando HTML, CSS, JAVASCRIPT e Python.
-- 💬 Pergunte-me sobre talent acquisition.
-- 😄 Ele/Dele.
  
 
 <div align="center">
